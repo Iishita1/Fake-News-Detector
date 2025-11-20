@@ -15,12 +15,11 @@ A robust NLP + ML pipeline to classify news articles as Fake or True using a hyb
 The project directory is organized as follows:
 
 ```text
-News_Detector/
+Fake-News-Detector/
 ├─ Datasets/
 │  ├─ Fake.csv
 │  └─ True.csv
 ├─ FakeNewsPredictor.ipynb
-├─ fake_news_dataset.csv
 ├─ README.md
 └─ .gitattributes
 ```
@@ -187,3 +186,4 @@ Here are several ways to extend and improve the project:
 
 * Dataset sources derived from public fake/true news corpora.
 * Open-source libraries by the Python & ML community.
+
